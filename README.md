@@ -6,9 +6,9 @@
 
 <p align="center">
 💻 Estudante de Desenvolvimento de Sistemas (SENAI) <br>
-
-🚀 Sempre buscando aprender e criar projetos práticos
+  🚀 Sempre buscando aprender e criar projetos práticos
 </p>
+
 
 ---
 
